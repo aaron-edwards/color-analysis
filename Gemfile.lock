@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    color (1.8)
+    color-rgb (0.0.2)
+    kmeans-clusterer (0.11.4)
+      narray (~> 0.6)
+    narray (0.6.1.2)
+    nyaplot (0.1.6)
+    rmagick (2.16.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  color
+  color-rgb
+  kmeans-clusterer
+  nyaplot
+  rmagick
+
+BUNDLED WITH
+   1.13.6
